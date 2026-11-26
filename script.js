@@ -1,7 +1,2 @@
-let student = "Aruzhan";
-
-function greeting() {
-  console.log("Сәлем, " + student);
-}
-
-greeting();
+let name = "Student";
+console.log(Name);
